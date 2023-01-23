@@ -1,4 +1,5 @@
-# DM-ML_Toxicity_predicition
+# Toxicity_predicition:It is a real life challenge.In class competiton where we were among top 3 teams.It use machine learning algorithms to create a model which predicts whether the given chemical is toxic or not. We used few machine learning algorithms such as Decison tree classifier, Random Forest, Bagging classfieir, XGB boost classifier got best accuracy of 85% with xgb boost classifier.
+
 DM&amp;ML_Toxicity_predicition
 This is an exciting competition addressing a real-life challenge. use machine learning to create a model that predicts which chemicals are toxic.
 
