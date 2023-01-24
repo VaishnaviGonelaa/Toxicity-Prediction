@@ -26,7 +26,7 @@ git clone https://github.com/VaishnaviGonelaa/Toxicity-Prediction.git
 Start Execution
 
 ``` bash
-python xgbclassifier.py
+python xgb-classifier.ipynb
 ```
 
 
