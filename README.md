@@ -18,9 +18,16 @@ To execute our source code provided in different platform rather than Kaggle we 
 3. Save and Run the code. 
  
 Using Google Colab Notebook, we can convert it to .py extension and use the file for execution. 
-'''bash
-git clone 
-'''
+
+Clone the Repository
+```bash
+git clone https://github.com/VaishnaviGonelaa/Toxicity-Prediction.git
+```
+Start Execution
+
+``` bash
+python xgbclassifier.py
+```
 
 
 
